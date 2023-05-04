@@ -29,7 +29,7 @@ jobs:
           pip install -r requirements.txt
 
       - uses: actions/checkout@v2
-      - uses: nanasess/setup-chromedriver@v1
+      - uses: nanasess/setup-chromedriver@v2
         with:
           # Optional: do not specify to match Chrome's version
           chromedriver-version: '97.0.4692.71'
