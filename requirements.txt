@@ -1,0 +1,8 @@
+pytest==7.2.0
+pytest-rerunfailures
+pytest-xdist
+selenium==3.8.0
+pytest-html==1.20.0
+pytest-cov
+pytest-repeat
+pytest-reportportal
